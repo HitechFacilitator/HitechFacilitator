@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HitechFacilitator
-- 👀 I’m interested in python, JS frameworks, JS libraries and Cybersecurity
+- 👀 I’m interested in Python, JS frameworks, JS libraries, Java and Cybersecurity
 - 🌱 I’m currently learning Java, python and ReactJS
 - 💞️ I’m looking to collaborate on any project using the following languages
       C/C++, Nodejs, Python and Bash
